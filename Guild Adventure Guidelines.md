@@ -1,0 +1,53 @@
+# Napland Adventure Nexus (NaN) - GUILD ADVENTURE GUIDELINES
+### BACKGROUND
+This is not an Official Adventurers League (AL) guild. The adventures played here will attempt to adhere closely to official AL rules. However, there is no guarantee that all games played here will be acceptable for official AL games. All games here that are official AL will have the Adventure’s Code (e.g., DDEX1-1). Other adventures may be homebrew that will not have official rewards/content. Please check with the DM of the game before you join if this is in question.
+
+The intention of this guild is to have fun and use the Adventurers League (AL) format as the basis for gaming. The primary features of AL that we wish to emulate here are: 
+ - Self-contained adventures that target less than 4-hours of gameplay and allow players to come and go freely between adventures.
+ - Reasonable limits to rewards to ensure fair and balanced gameplay.
+ - Simplified rules to reduce the burden on players and DMs 
+ - Reusability of adventures to allow re-runs of a adventure so as many people can play as they want.
+
+The reasoning behind these choices are:
+ - Reduce burden on DMs by encouraging smaller adventures vs large campaigns.
+ - Give the DMs a chance to play by encouraging easy drop in/out for all adventures.
+ - Reduce DM burden by leaning heavily on the well-developed rules and settings established by Wizards of the Coast 
+
+Definitions for common abbreviations used throughout this document may be found here: https://rpgbot.net/dnd5/abbreviations/.
+
+“Official Sourcebooks” refers to the PHB, ALPG, ALDMG, DMG, FAQ and sourcebooks referenced within these as well as any 5e sourcebooks officially released by Wizards of the Coast. 
+
+## GUIDELINES
+The below guidelines for the NaN guild are the foundational guidelines for play within this guild. We seek to maximize fun and fairness while minimizing DM burden. The guidelines set forth have been developed through collaboration with the DMs on NaN. These guidelines may be expanded via amendments developed through collaboration with DMs on this guild. The guildmaster will have final approval in any amendments or changes to this document.
+
+ 1. **ADVENTURES**
+     1. *DEFINITION:* An “Adventure” in NaN is a standalone game with a clear start, finish, and end that can be considered as self-contained but may be part of a larger story arc. Adventures should target a duration of 4 or less hours. This definition mirrors the Adventurers League definition.
+     1. *5E RULESET:* DMs may use published material or homebrew adventures within official WotC settings using the 5e ruleset. Settings from other rulesets may be used but must be adapted to 5e rules to reduce confusion or the need to know multiple rulesets.Variant rules should be avoided unless allowed in the AL guides. 
+     1. *SETTINGS:* DMs may use any WotC settings. This includes earlier editions of D&D. If the content is from earlier editions of D&D, the DM needs to adapt the content to 5e and ensure that there is no conflict with 5e rules. Unless there are official adaptation guidelines, the DM should maintain notes when adapting content to 5e. 
+     1. *CREATION GUIDELINES:* By default, DMs should lean on dungeoncraft and community created content guidelines set forth by WotC. However, additional guidelines may be developed for our guild such as standardized reward creation. DMs should aim to make adventures easy to accomplish in a 2-4 hour session with the ability to accommodate drop-ins / drop-outs from session to session. Aim to make encounters scalable for various Average Party Levels. Ensure that rewards do not give an unfair advantage and are appropriate to the character level (see AL guidelines on this). Adventures that are in a testing phase should be marked “TEST RUN” on the event listing so players are clear what they’re signing up for. Custom adventures should go through at least one round of play testing before removing this label.
+     1. *FREEDOM OF MOVEMENT:* Adventures must accommodate AL style gameplay by allowing drop ins/outs between adventures. All adventures should adhere to a single-session game targeting less than 4 hours of gameplay to reduce the likelihood of players being unable to continue the story on another date due to scheduling issues.
+     1. *MULTIVERSE:* The Nexus connects to any and all realms in the Wizards of the Coast multiverse. If there is an official setting published then it may be used here. By default rules as written from the most recent sources will be used with the primary source being the Adventurers League Player and Dungeon Master Guides. The original setting of the character will dictate that character’s abilities. For example, a cleric travelling to a different realm will still be able to use the powers granted to them by their deity. This is to encourage travel between games for players so they do not become handicapped unfairly when traveling to another realm.
+     1. *SIDEKICKS"* To reduce burden on DMs to fill the seats at their table, sidekicks will be allowed following the guidelines in TCoE. DMs will indicate when this is appropriate and players should not expect that a sidekick will always be allowed at future sessions of a game. Filling seats with sidekicks should be kept to a minimum. For example, if a game requires 3 players and only 2 show up then only use 1 sidekick to fill the gap if possible. For single-player games DMs may work with players to determine the appropriate number of sidekicks. Sidekicks should be controlled by the players. More information can be found in the Character Creation section.
+     1. *LABELING EVENTS:* All events should be labelled clearly as one of the following:
+        1. ***Official AL*** are Adventures that do not violate any AL rules
+        1. ***NaN*** are any other Adventures created with the guild guidelines
+        1. ***Other*** adventures / campaigns that don’t adhere to either. Please discuss these with the guild admins and DMs before posting them.
+        1. ***TEST RUN*** are Adventures in a testing phase.
+  1. *CHARACTER CREATION*
+     1. *BACKGROUND:* In general Character Creation will follow the guidelines set forth in the Adventurers League Player Guide (ALPG) and the sourcebooks allowed via the official rules.
+     1. *NON-ADVENTURE LEAGUE CHARACTERS:* At the DM’s discretion, players may be allowed to use characters disallowed by the standard ALPG rules. Players are responsible for ensuring their characters are acceptable for AL usage. If a player brings a non-AL character to a game without notifying their DM beforehand then the DM reserves the right to not allow them to play at the table. The DM should get discuss this with other players at the game to ensure they are aware that the game is not strictly “AL-legal.” This is allowed within our guild but other guilds may not accept this rule. DMs should clearly note on session event listings when they are not “AL-legal” so that players can make an informed decision if they want to join or if they want to a specific character they plan to only use on NaN. If specific races, subclasses, or other character options are allowed throughout the guild then this will be noted in amendments to this document. 
+     1. *STARTING EQUIPMENT:* Starting equipment will follow ALPG guidelines.
+     1. *SIDEKICKS:* At the DM’s discretion, Players may also create sidekicks to fill seats at a game. These characters will follow the rules in TCoE. Player-created sidekicks should provide a background, description, and personality notes. This should be just enough to ensure the character is its own entity. The background notes should not be extensive. The idea here is to reduce burden on DMs for filling in seats and enable Playerss to assist DMs by creating these characters. These characters should also not be a second PC, hence the reason for following TCoE rules on creation so that players focus on playing their own PC versus becoming distracted by trying to remember the mechanics of two different player characters.
+  1. *REWARDS*
+     1. *CHARACTER ADVANCEMENT:* Level rewards follow the rules outlined in the official sourcebooks.Typically one level per Adventure is rewarded. This may be adjusted by the DM depending on the scenario. Downtime days may also be used to level up in accordance to the ALPG rules. One level per Adventure does not necessarily mean one level per session. Some Adventures may be split over multiple sessions. DMs should aim to keep this reasonable by targeting 2 or less sessions per Adventure.
+     1. *TREASURE:* Treasure rewards follow the rules outlined in the official sourcebooks.Further guidelines standardizing this for guild-created content will be published at a later time.
+     1. *MAGIC ITEMS:* Magic item rewards follow the rules outlined in the official sourcebooks. Further guidelines standardizing this for guild-created content will be published at a later time.
+     1. *PETS:* Pet rewards follow the rules outlined in the official sourcebooks.Further guidelines standardizing this for guild-created content will be published at a later time.
+     1. *TRADE:* Trading items follows the rules outlined in the official sourcebooks. It is encouraged to limit trade to within the NaN guild. However, we understand if trades are done outside of the guild. Please record these properly in your Adventure Logs and ensure that you are trading AL-legal items when trading outside of the NaN guild.
+     1. *DOWNTIME:* Downtime activities follow official rules outlined in the official sourcebooks. Additional downtime activities and expanded downtime rewards (for players and DMs) may be expanded via amendments to these guidelines.
+  1. *OTHER RULES*
+     1. *CHARACTER DEATH:* Characters may die and be removed from play permenantly or ressurrected. In general, character ressurrection follows the rules from the official sourcebooks with the following adjustments: 
+        1. The cost of resurrection is the cost of the materials needed for the spell. 
+        1. The body must be recoverable and has been recovered.
+        1. If the cost of resurrection cannot be covered then the character may go into debt with the Nexus. Until the debt is paid, half of their gold earnings will be garnished. Players may liquidate items (including magic items) in their possession at half the book value to cover the debt. 
+        1. Alternatively, players may resurrect characters and retire them to their home realm or appropriate place for retirement. The character may appear in adventures as an NPC but only for social interactions, no combat or actions that would do more than disseminate information to the players. 
